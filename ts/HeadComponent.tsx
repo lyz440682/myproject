@@ -12,6 +12,7 @@ export default class Header extends React.Component{
 		<li className={styles.in_block}>张先生</li>
 		<li className={styles.in_block}>黄先生</li>
 		<li className={styles.in_block}>黎先生</li>
+		<li className={styles.in_block}>马先生</li>
 		</ul>
 		</div>;
 	}
